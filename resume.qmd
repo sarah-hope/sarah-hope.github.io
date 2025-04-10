@@ -77,10 +77,9 @@ job(
 <section class="social section">
 <div class="link-container">
 ```{r, echo=FALSE}
-twitter("https://twitter.com/Mayacelium")
-github("https://github.com/mayagans/")
-linkedin("https://www.linkedin.com/in/mayagans/")
-personal("https://maya.rbind.io/")
+github("https://github.com/sarah-hope/")
+linkedin("https://www.linkedin.com/in/sarahhope13/")
+personal("https://sarah-hope.github.io")
 ```
 </div>
 </section>
@@ -91,14 +90,21 @@ personal("https://maya.rbind.io/")
 ```{r, echo=FALSE}
 education(
   "MASTER OF SCIENCE",
-  "University of Wyoming",
-  "2016-2019"
+  "(in progress)",
+  "University of Massachusetts, Dartmouth",
+  "2023-2024"
 )
 
 education(
-  "BACHELOR OF SCIENCEE",
-  "Florida International University",
-  "2010-2014"
+  "MASTER OF SCIENCE",
+  "University of Massachusetts, Amherst",
+  "2023-2024"
+)
+
+education(
+  "BACHELOR OF ARTS",
+  "Emerson College",
+  "2015-2020"
 )
 ```
 </section>
