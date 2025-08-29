@@ -5,5 +5,5 @@ title: "mysite"
 this is my site :)
 
 # point to source instead of html
-#[about](about.qmd) 
-#[cv](about.qmd#section)
+
+\#[about](about.qmd) \#[cv](about.qmd#section)

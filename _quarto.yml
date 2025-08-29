@@ -7,10 +7,15 @@ project:
 website:
   title: "Sarah Hope"
   navbar:
+    background: primary
+    search: true
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: Home
+        href: index.qmd
+      - text: About
+        href: about.qmd
+      - text: VC
+        href: cv.qmd
 
 format:
   html:
