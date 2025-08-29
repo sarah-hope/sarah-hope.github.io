@@ -1,0 +1,23 @@
+project:
+  type: website
+  #render:
+  # - sections.qmd that you want to render
+  # - "!directory.qmd" to exlcude a file 
+
+website:
+  title: "Sarah Hope"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme:
+      - minty
+    css: bootstrap.css
+    toc: true
+
+editor: visual
+
