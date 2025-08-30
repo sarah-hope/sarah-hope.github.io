@@ -12,9 +12,11 @@ website:
     left:
       - text: Home
         href: index.qmd
-      - text: About
-        href: about.qmd
-      - text: VC
+      - text: about me
+        href: aboutme.qmd
+      - text: projects
+        href: projects.qmd
+      - text: CV
         href: cv.qmd
 
 format:

@@ -1,9 +1,5 @@
 ---
-title: "mysite"
+title: "Sarah Hope"
 ---
 
-this is my site :)
-
-# point to source instead of html
-
-\#[about](about.qmd) \#[cv](about.qmd#section)
+# 
