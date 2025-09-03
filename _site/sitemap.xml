@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://sarah-hope.github.io/about.html</loc>
-    <lastmod>2025-08-29T23:55:02.991Z</lastmod>
+    <loc>https://sarah-hope.github.io/cv.html</loc>
+    <lastmod>2025-08-30T00:47:51.768Z</lastmod>
   </url>
   <url>
     <loc>https://sarah-hope.github.io/index.html</loc>
-    <lastmod>2025-08-29T23:55:03.169Z</lastmod>
+    <lastmod>2025-09-03T03:03:57.021Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sarah-hope.github.io/aboutme.html</loc>
+    <lastmod>2025-08-30T00:47:51.768Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sarah-hope.github.io/projects.html</loc>
+    <lastmod>2025-08-30T00:47:51.769Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sarah-hope.github.io/about.html</loc>
+    <lastmod>2025-08-30T00:47:51.768Z</lastmod>
   </url>
 </urlset>
