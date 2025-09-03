@@ -1,5 +1,18 @@
 ---
 title: "Sarah Hope"
+about:
+  template: trestle
+  image: profile.jpg
+  links:
+    - icon: instagram
+      text: instagram
+      href: https://instagram.com
+    - icon: github
+      text: github
+      href: https://github.com
 ---
 
-# 
+# Sarah Hope
+
+I'm a marine scientist researching the connections between economic and ecological systems at the University of Massachusetts School for Marine Science and Technology. I'm passionate passionate about building resilience in coastal communities by coproducing science that informs sustainable management of ecosystems. I use statistics to understand problems that span multiple disciplines, and engage collaborators in resilience building.
+:::
