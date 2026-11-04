@@ -12,21 +12,6 @@ website:
       - href: cv.qmd
         text: cv
 
-page-footer:
-    background: "#A1CCBC"
-    left:
-      - text: "sarah hope"
-    center:
-      - href: https://github.com/sarah-hope
-        icon: github
-        aria-label: GitHub
-      - href: https://www.linkedin.com/in/sarahhope13/
-        icon: linkedin
-        aria-label: LinkedIn
-      - href: https://orcid.org/0009-0001-5217-5123
-        icon: site_libs/icons/ORCID-iD_icon_reversed_vector.svg
-        aria-label: orcID
-
 format:
   html:
     theme:
