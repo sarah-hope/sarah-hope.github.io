@@ -11,8 +11,7 @@ website:
       - about.qmd
       - href: cv.qmd
         text: cv
-
-page-footer:
+  page-footer:
     background: "#A1CCBC"
     left: "sarah hope"
     center:
