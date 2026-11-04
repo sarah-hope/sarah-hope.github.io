@@ -26,10 +26,13 @@ page-footer:
 
 format:
   html:
-    theme:
-      - lux
+    theme: [lux, styles.scss]
     css: styles.css
     toc: true
+    grid:
+      sidebar-width: 0px
+      body-width: 1000px
+      margin-width: 250px
     
 execute:
   freeze: auto
