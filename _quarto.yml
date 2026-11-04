@@ -30,7 +30,7 @@ page-footer:
 format:
   html:
     theme:
-      - minty
+      - lux
     css: styles.css
     toc: true
     
