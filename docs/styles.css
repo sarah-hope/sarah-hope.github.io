@@ -1,1 +1,94 @@
 /* css styles */
+
+
+
+/*-- footer style --*/
+
+.footer-container {
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+  padding-top: 1em;
+  margin-top: 2.5em;
+}
+
+.footer-text h3, .h3 {
+  font-family: 'Oswald';
+  color: white;
+  font-size: .875rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  margin-bottom: 0.5rem;
+  margin-top: 0.3rem;
+  border-bottom: 0;
+  padding-bottom: 0;
+  padding-top: 0px;
+}
+
+.footer-text p, .p {
+  color: white;
+  font-size: .875rem;
+  font-weight: 400;
+}
+
+.footer-text p > a {
+  color: white;
+  font-size: .875rem;
+  font-weight: 400;
+}
+
+.footer-text p > a:hover {
+  color: #939bc9;
+  font-size: .875rem;
+  font-weight: 400;
+}
+
+.footer-block {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding-top: 1em;
+  padding-bottom: 1em; 
+  box-sizing: border-box;
+}
+
+/*-- nav footer styles --*/
+
+.nav-footer {
+  color: white;
+  font-family: 'Oswald';
+  font-weight: 400;
+  padding-left: 1.5em !important;
+  padding-right: 1.5em !important;
+  padding-top: 1em;
+}
+
+body:not(.floating) .nav-footer {
+  border-top: 1px solid #f0eeeb;
+}
+
+.nav-footer a {
+  color: white;
+  font-weight: 400;
+}
+
+.nav-footer a:hover {
+  color: #939bc9;
+}
+
+.nav-footer-left .footer-items .nav-link, .nav-footer-center .footer-items .nav-link, .nav-footer-right .footer-items .nav-link {
+  font-weight: 400;
+  text-transform: uppercase;
+}
+
+.nav-footer-left .footer-items .nav-item, .nav-footer-center .footer-items .nav-item, .nav-footer-right .footer-items .nav-item {
+  margin-top: 0;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+
+.nav-footer-left {
+  font-family: 'Montserrat';
+}
+
+.nav-footer-right {
+  font-family: 'Montserrat';
+}
