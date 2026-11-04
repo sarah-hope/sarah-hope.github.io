@@ -7,8 +7,10 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: home
       - about.qmd
+      - href: cv.qmd
+        text: cv
 
 page-footer:
     background: "#A1CCBC"
