@@ -4,13 +4,20 @@
     "href": "index.html",
     "title": "Sarah Hope",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome! I am a PhD Student at the University of Massachusetts Dartmouth School for Marine Science and Technology. I am a member of the Fay Lab, where we do research on quantitative methods in fisheries science and ecosystem based fisheries management.\nMy academic research is focused on the modeling the social-ecological trade-offs in fisheries. I use a range of approaches to do this, including both quantitative and qualitative modeling, management strategy evaluation, and social science methods.\nI also work in service to my community to increase access to seafood, facilitate connection to food systems, strengthen mutual aid networks, and build worker solidarity."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "about",
+    "title": "cv",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "brief cv below, see full cv here\n\nEducation\nPh.D. in progress @ University of Massachusetts Dartmouth, Marine Science & Technology, estimated 2028.\nM.S. University of Massachusetts Amherst, Sustainability Science, 2024.\nB.A. Emerson College, Writing, Literature, and Publishing (minor in Journalism), 2020.\n\n\nExperience\nUniversity of Massachusetts Dartmouth, 2024-present, Research Assistant, Department of Fisheries Oceanography.\nPeople Acting in Community Endeavors (PACE), 2026-Present, Research Lead, Bycatch Redirection.\nUniversity of Massachusetts Amherst, 2024, Research Assistant, Department of Environmental Conservation.\nUniversity of Massachusetts Amherst, 2023-2024, Leaders in Sustainability Fellow, Department of Environmental Conservation.\nStone Living Lab / Boston Harbor Now, 2023, Climate Education & Programs Intern."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "cv",
+    "section": "",
+    "text": "brief cv below, see full cv here\n\nEducation\nPh.D. in progress @ University of Massachusetts Dartmouth, Marine Science & Technology, estimated 2028.\nM.S. University of Massachusetts Amherst, Sustainability Science, 2024.\nB.A. Emerson College, Writing, Literature, and Publishing (minor in Journalism), 2020.\n\n\nExperience\nUniversity of Massachusetts Dartmouth, 2024-present, Research Assistant, Department of Fisheries Oceanography.\nPeople Acting in Community Endeavors (PACE), 2026-Present, Research Lead, Bycatch Redirection.\nUniversity of Massachusetts Amherst, 2024, Research Assistant, Department of Environmental Conservation.\nUniversity of Massachusetts Amherst, 2023-2024, Leaders in Sustainability Fellow, Department of Environmental Conservation.\nStone Living Lab / Boston Harbor Now, 2023, Climate Education & Programs Intern."
   }
 ]

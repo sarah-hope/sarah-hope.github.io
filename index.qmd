@@ -1,11 +1,24 @@
 ---
 title: "Sarah Hope"
+about:
+  template: trestles
+  image: images/headshot.jpeg
+  links:
+    - text: Github
+      href: https://github.com/sarah-hope
+      icon: github
+      aria-label: GitHub
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/sarahhope13/
+      icon: linkedin
+      aria-label: LinkedIn
+    - text: Email
+      icon: envelope
+      href: mailto:shope@umassd.edu
 ---
 
-This is a Quarto website.
+Welcome! I am a PhD Student at the University of Massachusetts Dartmouth School for Marine Science and Technology. I am a member of [the Fay Lab](https://thefaylab.github.io/), where we do research on quantitative methods in fisheries science and ecosystem based fisheries management.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+My academic research is focused on the modeling the social-ecological trade-offs in fisheries. I use a range of approaches to do this, including both quantitative and qualitative modeling, management strategy evaluation, and social science methods.
 
-```{r}
-1 + 1
-```
+I also work in service to my community to increase access to seafood, facilitate connection to food systems, strengthen mutual aid networks, and build worker solidarity.
