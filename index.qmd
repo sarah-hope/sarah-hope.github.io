@@ -2,7 +2,8 @@
 title: "Sarah Hope"
 about:
   template: trestles
-  image: images/headshot.jpeg
+  image: images/headshot.jpg
+  image-shape: round
   links:
     - text: Github
       href: https://github.com/sarah-hope

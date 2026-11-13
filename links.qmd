@@ -1,0 +1,33 @@
+---
+title: "Sarah Hope"
+about:
+  template: trestles
+  image: images/headshot.jpg
+  image-width: 10em
+  image-shape: round
+  links:
+    - text: Github
+      href: https://github.com/sarah-hope
+      icon: github
+      aria-label: GitHub
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/sarahhope13/
+      icon: linkedin
+      aria-label: LinkedIn
+    - text: Email
+      icon: envelope
+      href: mailto:shope@umassd.edu
+---
+
+Welcome! 
+
+[<button type="button" class="btn btn-primary">find me on github</button>](https://github.com/sarah-hope)
+
+[<button type="button" class="btn btn-secondary">beep</button>](https://google.com)
+
+[<button type="button" class="btn btn-success">boop</button>](https://google.com)
+
+[<button type="button" class="btn btn-info">beep</button>](https://google.com)
+
+[<button type="button" class="btn btn-warning">boop</button>](https://google.com)
+
